@@ -1,6 +1,4 @@
-# DogMatchv2
-#### Created and Maintained by Matt Vicari
-	
+
 ----------------
 DogMatch v2 Blazor App (Blazor WebAssembly (WASM), Progressive Web App (PWA), .Net Core 5, SQL Server)
 
